@@ -25,16 +25,12 @@ This repository contains a simple "Hello World" program developed as part of tea
 
 **Author:**
 - **Name:** AS
-- **Contact:** [Your Email] (Optional)
 
 **License:**
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 **Acknowledgments:**
-- TAFE for providing the learning opportunity.
+- TAFE for providing the teaching opportunity.
 - Any other contributors or resources you used.
 
 Feel free to reach out for any questions or contributions.
-```
-
-This version includes headers, formatting, and detailed instructions to make it more professional and user-friendly.
